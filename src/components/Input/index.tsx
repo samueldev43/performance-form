@@ -1,7 +1,3 @@
-
-
-
-
 import { InputHTMLAttributes, useEffect, useRef } from 'react'
 import { Inputt } from './style'
 
